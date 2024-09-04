@@ -17,4 +17,4 @@ installer de la sernier version stable avec les dependace courante pour un site 
 
     symfont serve -d
 
-
+https://127.0.0.1:8000/
